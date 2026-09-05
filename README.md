@@ -1,2 +1,8 @@
-# World-Lens-AI-Chatbot
-AI-powered geography and countries chatbot built with Python, Flask, Socket.IO, and Ollama.
+# 🌍 WorldLens AI – Geography Chatbot
+
+🎓 "Internship Project – Generative AI"
+
+AI-powered geography and countries chatbot built using various technologies and languages.
+
+#Technologies and languages 
+Python • Flask • Ollama • HTML • CSS • JavaScript
