@@ -4,5 +4,5 @@
 
 AI-powered geography and countries chatbot built using various technologies and languages.
 
-#Technologies and languages 
+#Technologies and languages are
 Python • Flask • Ollama • HTML • CSS • JavaScript
